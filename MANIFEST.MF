@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Groupe Fourmi 2
+Main-Class: Main
+Class-Path: ./Fourmi.jar
