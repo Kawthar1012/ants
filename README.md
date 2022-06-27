@@ -1,5 +1,5 @@
 **First : Do it one time**
-git clone https://gogs.script.univ-paris-diderot.fr/PI4_2019/Fourmis2.git
+git clone https://github.com/Kawthar1012/ants
 
 **Second : Update**
 git pull 
@@ -14,11 +14,11 @@ git commit -m "str"
 **save on the Server**
 git push
 
-pour lancer un test :
+to launch a test / pour lancer un test :
     make run
 
-pour générer la documentation :
+for the documentation / pour générer la documentation :
     make jdoc
 
-pour netoyer les .class
+to clean / pour netoyer :
     make clean
